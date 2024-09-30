@@ -24,9 +24,10 @@ This project uses the following dependencies:
 - maven-compiler-plugin version 3.13.0
 - extentreports 5.1.2
   
-  ### 🛠️ Installation
+### 🛠️ Installation
 1. **Clone the Repository**: to your local machine.
      git clone "https://github.com/losuindaAhmed/OrangeHRMTask.git"
+   
     2. Navigate to the project directory using the command line.
     3. Install the dependencies and run the smoke test plan (configured).   
       mvn clean install
