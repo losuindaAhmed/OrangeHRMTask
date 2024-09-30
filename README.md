@@ -27,13 +27,12 @@ This project uses the following dependencies:
 ### 🛠️ Installation
 1. **Clone the Repository**: to your local machine.
      git clone "https://github.com/losuindaAhmed/OrangeHRMTask.git"
-   
     2. Navigate to the project directory using the command line.
     3. Install the dependencies and run the smoke test plan (configured).   
       mvn clean install
 ### 🌐 Application under test
 **OrangeHRM Demo Website**:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-   Note that this website is being used for testing purposes, and I, the tester, acknowledge that I do not own or have any rights to this website. 
+     Note that this website is being used for testing purposes, and I, the tester, acknowledge that I do not own or have any rights to this website. 
        Testing activities are for demo purposes only.
  ### 👨🏼‍🔬Tests 
  The task is divided into 3 parts:
