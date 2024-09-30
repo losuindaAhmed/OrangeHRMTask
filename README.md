@@ -13,13 +13,6 @@ Before you can run this project, you must have the following software installed 
  -Valid account on the OrangeHRM Demo website
   -Eclipse IDE.
 
-  ## Prerequisites
-
-- Ensure you have the necessary testing tools installed:
-  - Selenium WebDriver 
-  - A valid account on the OrangeHRM Demo website
-  - A code editor (like VSCode, PyCharm, or any other)
-
 ### 🔗 Dependencies
 
 This project uses the following dependencies:
