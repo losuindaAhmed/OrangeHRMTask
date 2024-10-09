@@ -33,9 +33,7 @@ This project uses the following dependencies:
 ```
 ### 🌐 Application under test
 **OrangeHRM Demo Website**:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-     Note that this website is being used for testing purposes, and I, the tester, acknowledge that I do not own or have any 
-       rights to this website. 
-       Testing activities are for demo purposes only.
+     -Note that this website is being used for testing 
  ### 👨🏼‍🔬Tests 
  The task is divided into 3 parts:
  Part 1: Successful Login
