@@ -33,7 +33,7 @@ This project uses the following dependencies:
 ```
 ### 🌐 Application under test
 **OrangeHRM Demo Website**:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-     -Note that this website is being used for testing 
+
  ### 👨🏼‍🔬Tests 
  The task is divided into 3 parts:
  Part 1: Successful Login
